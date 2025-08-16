@@ -71,11 +71,11 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavinikumbh&show_icons=true&theme=rose_pine" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi162330&show_icons=true&theme=rose_pine" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavinikumbh&theme=rose_pine" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi162330&theme=rose_pine" />
 </p>
 
 ---
