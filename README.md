@@ -28,24 +28,25 @@
 
 ---
 
-**Personal AI-Themed Portfolio Website 🌐**  
-*December 2024*  
-- **Objective**: Designed & developed a professional portfolio website with an **AI + Tech theme**.  
-- **Technologies**: HTML5, CSS3, Git, GitHub  
-- **Application**: Showcases About, Skills, Projects, Resume, and Contact details with clean UI & smooth navigation. Acts as a central hub for professional networking & opportunities.  
-
+**Skin Cancer Classification System**
+AI model that classifies dermoscopic images into AK, BCC, and SK, with GradCAM explainability.
+- Built simple UI for instant predictions, confidence scores, and heatmaps  
+- Tech: Python, PyTorch, Streamlit, OpenCV
+  
 ---
 
-**Nyay-AI ⚖️** *(Work in Progress)*  
-- AI-based Legal Document Analysis & Guidance System.  
-- Provides multilingual support, personalized legal drafts, and accessible guidance for common people.  
+**AgriPredict – Smart Crop Yield Forecasting**
+End to end ML system for yield prediction using soil, weather, and regional data.  
+Includes voice assistant, suitability checks, and real time weather integration.
 
 ---
 
 ### 🏆 Achievements
-- 🌍 Selected for **Russia Exchange Internship (2025)** – Fully Funded 🇷🇺  
-- 🎯 **Event-Coordinator** - AIML Department Student Association (ADSA) 2024–2025  
-- 🏐 **Runner-Up** - Inter-department Volleyball Competition  
+- Selected for **Russia Exchange Internship (2025)** – Fully Funded 🇷🇺  
+- **Event-Coordinator** - AIML Department Student Association (ADSA) 2024–2025  
+- **Runner-Up** - Inter-department Volleyball Competition
+- Selected for **SUNHACKS 2025** National Hackathon  
+- Attended **Hyperspectral Imaging Workshop** by National Chung Cheng University, Taiwan  
 
 ---
 
