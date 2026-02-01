@@ -26,14 +26,12 @@
 - **Technologies**: ESP32, DHT11, LCD, Relay Modules, Firebase Realtime DB, HTML, CSS, Firebase SDK, Arduino IDE.  
 - **Application**: Real-time shed monitoring with automated fans/heaters triggered via relays. Data synced to Firebase & shown on a web dashboard for remote farm management.  
 
----
 
 **Skin Cancer Classification System**
 AI model that classifies dermoscopic images into AK, BCC, and SK, with GradCAM explainability.
 - Built simple UI for instant predictions, confidence scores, and heatmaps  
 - Tech: Python, PyTorch, Streamlit, OpenCV
   
----
 
 **AgriPredict – Smart Crop Yield Forecasting**
 End to end ML system for yield prediction using soil, weather, and regional data.  
