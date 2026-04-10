@@ -1,85 +1,159 @@
 <h1 align="center">✨ Hi there, I’m Vaishnavi Nikumbh ✨</h1>
 
-### 🌸 About Me
-- 🎓 **B.Tech Student (AIML)** - 3rd Year at Sanjivani University  
-- 💻 **Tech Explorer** with strong skills in software & AI  
-- ⚡ **Currently Learning** - Machine Learning, Data Analytics, and AI Tools  
-- 🌱 Passionate about building solutions that blend **AI + real-world applications**  
+<p align="center">
+🚀 AI & ML Enthusiast | 💻 Developer | 🌱 Lifelong Learner
+</p>
 
 ---
 
-### 🛠️ Technical Skills
-- **Programming Languages**: Java, Python, C++  
-- **Web Development**: HTML5, CSS3, JavaScript  
-- **Backend & Databases**: MySQL, Firebase  
-- **Tools & Platforms**: Git, GitHub, Docker, VS Code, Power BI  
-- **AI/ML Fundamentals**: Python, NumPy, Pandas  
-- **Software Practices**: Agile methodology, debugging & testing, version control  
+## 🌸 About Me
+
+* 🎓 B.Tech (AI & ML) – 3rd Year at Sanjivani University
+* 💡 Passionate about building **AI-powered real-world solutions**
+* ⚡ Exploring **Machine Learning, Data Analytics & AI Tools**
+* 🎯 Goal: To become a skilled AI Engineer & problem solver
 
 ---
 
-### 🚀 Projects
+## 🛠️ Technical Skills
 
-**IoT Driven Poultry Management System 🐓**  
-- **Objective**: Automated monitoring & control of poultry farm conditions (temperature & humidity) for bird health.  
-- **Technologies**: ESP32, DHT11, LCD, Relay Modules, Firebase Realtime DB, HTML, CSS, Firebase SDK, Arduino IDE.  
-- **Application**: Real-time shed monitoring with automated fans/heaters triggered via relays. Data synced to Firebase & shown on a web dashboard for remote farm management.  
-
----
-
-**Skin Cancer Classification System**
-AI model that classifies dermoscopic images into AK, BCC, and SK, with GradCAM explainability.
-- Built simple UI for instant predictions, confidence scores, and heatmaps  
-- Tech: Python, PyTorch, Streamlit, OpenCV
-  
----
-
-**AgriPredict – Smart Crop Yield Forecasting**
-- End to end ML system for yield prediction using soil, weather, and regional data.
-- Includes voice assistant, suitability checks, and real time weather integration.
+**💻 Languages:** Java, Python, C++
+**🌐 Web:** HTML, CSS, JavaScript
+**🗄️ Databases:** MySQL, Firebase
+**⚙️ Tools:** Git, GitHub, Docker, VS Code, Power BI
+**🤖 AI/ML:** NumPy, Pandas, PyTorch, OpenCV
+**📌 Practices:** Agile, Debugging, Testing, Version Control
 
 ---
 
-### 🏆 Achievements
-- Selected for **Russia Exchange Internship (2025)** – Fully Funded 🇷🇺  
-- **Event-Coordinator** - AIML Department Student Association (ADSA) 2024–2025  
-- **Runner-Up** - Inter-department Volleyball Competition
-- Selected for **SUNHACKS 2025** National Hackathon  
-- Attended **Hyperspectral Imaging Workshop** by National Chung Cheng University, Taiwan  
+## 🚀 Featured Projects
+
+### 🧠 ReasonEval – LLM Reasoning Evaluation Engine
+
+* Built a system to **analyze and score AI reasoning quality**
+* Evaluates outputs on:
+
+  * Logical consistency
+  * Completeness
+  * Instruction following
+  * Hallucination risk
+* 📊 Interactive dashboard using **Streamlit**
+* ⚡ Runs locally using **Ollama (Llama models)** — no API cost
+* 🧠 Uses **First Principles Thinking + self-verification logic**
 
 ---
 
-### 💻 Languages, Tools & AI Platforms
+### 🛡 SafeVision – AI Surveillance System
+
+* Real-time **AI-powered CCTV system**
+* 🚨 Features:
+
+  * Intrusion detection (custom zones)
+  * Weapon & mask detection
+  * Face recognition access control
+  * WhatsApp alerts (Twilio integration)
+* 🎥 Built live dashboard with **Flask + OpenCV + YOLOv8**
+* ⚡ Optimized pipeline for real-time performance
+
+---
+
+### 🌍 PolyglotAI – Multilingual Translator
+
+* Full-stack translation web app (60+ languages)
+* 🔤 Features:
+
+  * Tone-aware translation (formal/casual/slang)
+  * Speech output (Text-to-Speech)
+  * Document translation (PDF, DOCX, TXT)
+  * Phrasebook & history tracking
+* ⚡ Built using **FastAPI + HTML/CSS/JS**
+* 💡 Works locally — no paid API required
+
+---
+
+### 🤟 Sign Language Detector
+
+* Real-time **hand gesture recognition system**
+* Detects:
+
+  * Alphabets (A–Z)
+  * Numbers (0–9)
+* 🔊 Provides **voice feedback**
+* 🧠 Built using:
+
+  * OpenCV + MediaPipe
+  * CNN (TensorFlow/Keras)
+* 🎯 Custom dataset training supported
+
+---
+
+### 🐓 IoT Poultry Management System
+
+* Smart farm monitoring using IoT
+* 🌡️ Tracks temperature & humidity in real-time
+* ⚡ Automated control (fans/heaters via relays)
+* 📊 Data synced to Firebase with web dashboard
+
+---
+
+### 🧬 Skin Cancer Classification System
+
+* AI model to classify skin diseases (AK, BCC, SK)
+* 🔥 Features:
+
+  * GradCAM explainability
+  * Confidence scores
+  * Simple UI for predictions
+* 🛠 Built using PyTorch + Streamlit
+
+---
+
+### 🌾 AgriPredict – Crop Yield Forecasting
+
+* ML-based crop prediction system
+* 🌦 Uses soil + weather + regional data
+* 🎙 Includes voice assistant & suitability checks
+* 📡 Real-time weather integration
+
+---
+
+## 🏆 Achievements
+
+* 🇷🇺 Selected for **Russia Exchange Internship (2025)**
+* 🏅 Participant – **SUNHACKS 2025 National Hackathon**
+* 🎯 Event Coordinator – AIML Student Association (ADSA)
+* 🏐 Runner-Up – Inter-department Volleyball
+* 🌐 Attended **Hyperspectral Imaging Workshop (Taiwan)**
+
+---
+
+## 💻 Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Lovable_AI-FF69B4?style=for-the-badge&logo=heart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor_AI-9370DB?style=for-the-badge&logo=sparkles&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trae_AI-87CEFA?style=for-the-badge&logo=star&logoColor=white"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi162330&show_icons=true&theme=rose_pine"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi162330&theme=rose_pine"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavi162330&show_icons=true&theme=rose_pine" />
-</p>
+## 🌸 Fun Fact
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaishnavi162330&theme=rose_pine" />
-</p>
+> *“Tech + Consistency + Growth = Success ✨”*
 
----
-
-### 🌸 Fun Fact
-> *“Tech + Discipline + Balance = Growth ✨”*  
-I believe in learning every day, staying consistent, and creating solutions that matter.  
+💡 I believe in learning daily, building consistently, and creating impactful solutions.
